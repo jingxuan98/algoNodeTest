@@ -1,0 +1,6 @@
+Telemetry configured from 'data/logging.config'
+Logging to:  /root/node/data/node.log
+Deadlock detection is set to: disabled (Default state is 'disable')
+Initializing the Algorand node... Success!
+⇨ http server started on [::]:8080
+Node running and accepting RPC requests over HTTP on port [::]:8080. Press Ctrl-C to exit
