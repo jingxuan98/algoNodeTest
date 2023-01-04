@@ -21,9 +21,7 @@ services:
     platform: linux/amd64
     environment:
       - ALGORAND_NETWORK=mainnet
-    # volumes:
-    #   - ./data:/root/node/data
+    volumes:
+      - ./data:/root/node/data
     tty: true
     stdin_open: true
-
-
